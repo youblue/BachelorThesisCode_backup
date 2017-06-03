@@ -1,0 +1,44 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: BiYeSheJi - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPA20.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /FR"Debug/" /Fp"Debug/BiYeSheJi.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"F:\张望舒\080319(2)\BiYeSheJi2\BiYeSheJi.cpp"
+"F:\张望舒\080319(2)\BiYeSheJi2\BiYeSheJiDlg.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPA20.tmp" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPA21.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/BiYeSheJi.pdb" /debug /machine:I386 /out:"Debug/BiYeSheJi.exe" /pdbtype:sept 
+".\Debug\BiYeSheJi.obj"
+".\Debug\BiYeSheJiDlg.obj"
+".\Debug\BiYeSheJiDoc.obj"
+".\Debug\dibapi.obj"
+".\Debug\MainFrm.obj"
+".\Debug\StdAfx.obj"
+".\Debug\TemplateTrans.obj"
+".\Debug\BiYeSheJi.res"
+]
+Creating command line "link.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSPA21.tmp"
+<h3>Output Window</h3>
+Compiling...
+BiYeSheJiDlg.cpp
+F:\张望舒\080319(2)\BiYeSheJi2\BiYeSheJiDlg.cpp(358) : warning C4244: '=' : conversion from 'double' to 'unsigned char', possible loss of data
+Generating Code...
+Skipping... (no relevant changes detected)
+BiYeSheJi.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+BiYeSheJi.exe - 0 error(s), 1 warning(s)
+</pre>
+</body>
+</html>
