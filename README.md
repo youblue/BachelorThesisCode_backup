@@ -1,3 +1,3 @@
-# A MFC software for video capture and image processing, written in 2007-2008
+# A MFC software for video capture and image processing
 
-Very excited to recover this from my old hard disk
+Written in 2007-2008, very excited to recover this from my old hard disk
